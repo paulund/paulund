@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**paulund/paulund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Projects
 
-Here are some ideas to get you started:
+- [Paulund](https://paulund.co.uk) - Personal website and blog
+- [UpChecker](https://upchecker.app) - A website monitoring tool, uptime, performance, SSL, Domain, XML sitemap.
+- [Software Engineering Notebook](https://github.com/paulund/software-engineer-notebook) - My notebook about being a Software Engineer
+- [Content Markdown](https://github.com/paulund/content-markdown) - A Laravel package to read markdown files in your application
+- [Package Template](https://github.com/paulund/package-template) - A template repository for creating Laravel packages
+- [OG Image Generator](https://github.com/paulund/og-image-generator) - A Laravel package to automatically create OG Images
+- [SEO Meta](https://github.com/paulund/seo-meta) - A Laravel package for adding SEO Meta information to your application
+- [PHP Xdebug Docker](https://github.com/paulund/PHP-Xdebug) - Docker images to use xdebug locally. I use to debug in my IDE.
+- [RSS Feed](https://github.com/paulund/rss-feed) - Create an RSS Feed in my Laravel application
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paulund&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulund&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
