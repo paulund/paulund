@@ -4,7 +4,6 @@
 
 - [Paulund](https://paulund.co.uk) - Personal website and blog
 - [UpChecker](https://upchecker.app) - A website monitoring tool, uptime, performance, SSL, Domain, XML sitemap.
-- [Software Engineering Notebook](https://github.com/paulund/software-engineer-notebook) - My notebook about being a Software Engineer
 - [Content Markdown](https://github.com/paulund/content-markdown) - A Laravel package to read markdown files in your application
 - [Package Template](https://github.com/paulund/package-template) - A template repository for creating Laravel packages
 - [OG Image Generator](https://github.com/paulund/og-image-generator) - A Laravel package to automatically create OG Images
