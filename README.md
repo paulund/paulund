@@ -3,12 +3,6 @@
 ## Personal Projects
 
 - [Paulund](https://paulund.co.uk) - Personal website and blog
-- [Content Markdown](https://github.com/paulund/content-markdown) - A Laravel package to read markdown files in your application
-- [Package Template](https://github.com/paulund/package-template) - A template repository for creating Laravel packages
-- [OG Image Generator](https://github.com/paulund/og-image-generator) - A Laravel package to automatically create OG Images
-- [SEO Meta](https://github.com/paulund/seo-meta) - A Laravel package for adding SEO Meta information to your application
-- [PHP Xdebug Docker](https://github.com/paulund/PHP-Xdebug) - Docker images to use xdebug locally. I use to debug in my IDE.
-- [RSS Feed](https://github.com/paulund/rss-feed) - Create an RSS Feed in my Laravel application
 
 ---
 
