@@ -16,11 +16,6 @@ I'm Paulund — a full-stack engineer building AI tools, open-source projects, a
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ### 🚀 Personal Projects
 
 - [Paulund](https://paulund.co.uk) - Personal website and blog
