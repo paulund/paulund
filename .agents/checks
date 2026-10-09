@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# Local checks for the paulund GitHub profile repository.
+#
+# The repository holds only README.md, the profile page GitHub renders. There is
+# no code, no build and no linter configured, so there is nothing to check. This
+# file exists so the agent merge gate, which fails repositories with no checks
+# at all, does not block merges here. Add real checks if code or tooling arrives.
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+case "${1:-}" in
+  ""|--fast) ;;
+  *) echo "usage: $0 [--fast]" >&2; exit 2 ;;
+esac
+
+printf '==> nothing to check\n'
+echo "README.md only: no code, build or linter configured."
